@@ -52,10 +52,3 @@ Given a set of sonar signals (numerical features), build a classification model 
 *(Accuracy may vary depending on preprocessing and parameter tuning.)*
 
 ---
-
-## 🚀 How to Run the Project  
-
-### 1. Clone the repository  
-```bash
-git clone https://github.com/yourusername/mine-vs-rock.git
-cd mine-vs-rock
