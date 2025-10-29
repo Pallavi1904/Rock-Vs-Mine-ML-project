@@ -1,4 +1,4 @@
-# 🎯 Mine vs Rock Prediction using Machine Learning  
+# 🎯 Mine vs Rock Prediction using Machine Learning 
 
 ## 📘 Overview  
 This project aims to **classify objects as either “Mine” or “Rock”** based on sonar signal data using **Machine Learning techniques**.  
