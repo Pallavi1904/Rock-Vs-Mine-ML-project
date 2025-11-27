@@ -6,7 +6,7 @@ The dataset contains sonar readings bounced off metal cylinders and rocks on the
 The goal is to train a model that can accurately differentiate between mines (dangerous underwater explosives) and rocks (natural obstacles).  
 
 ---
-
+     
 ## 🧠 Problem Statement  
 Given a set of sonar signals (numerical features), build a classification model that predicts whether the object detected is a **Mine (M)** or a **Rock (R)**.
 
