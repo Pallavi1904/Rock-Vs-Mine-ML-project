@@ -4,7 +4,7 @@
 This project aims to **classify objects as either “Mine” or “Rock”** based on sonar signal data using **Machine Learning techniques**.  
 The dataset contains sonar readings bounced off metal cylinders and rocks on the sea floor.  
 The goal is to train a model that can accurately differentiate between mines (dangerous underwater explosives) and rocks (natural obstacles).  
-
+   
 ---
      
 ## 🧠 Problem Statement  
